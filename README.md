@@ -1,16 +1,27 @@
-## Hi there 👋
+🧠 [ActioMeta]
+Innovación en Software | Desarrollo a Medida | Soluciones Inteligentes
 
-<!--
-**ActioMeta/ActioMeta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 ¿Quiénes Somos?
+Somos una compañía de desarrollo de software dedicada a crear soluciones tecnológicas modernas, eficientes y adaptadas a las necesidades de nuestros clientes. Nos apasiona construir productos de alto impacto, desde prototipos ágiles hasta sistemas de producción robustos.
 
-Here are some ideas to get you started:
+🛠️ Lo Que Hacemos
+Desarrollo de aplicaciones web, desktop y móviles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Integraciones con APIs y plataformas en la nube
+
+Automatización de procesos con inteligencia artificial
+
+Dashboards, paneles de control y herramientas interactivas
+
+Sistemas empresariales y soluciones a medida
+
+💡 Tecnologías que Usamos
+
+🤝 Trabaja con Nosotros
+¿Tienes una idea o necesitas un equipo de desarrollo?
+
+[![Correo](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:actiometa@gmail.com)
+[![Sitio Web](https://img.shields.io/badge/Sitio_Web-000000?style=flat&logo=Google-Chrome&logoColor=white)](https://actiometa.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]()
+[![Twitter](https://img.shields.io/badge/X-000000?style=flat&logo=twitter&logoColor=white)]()
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/actio.meta?igsh=NW5vcTZodmJvNGM0)
